@@ -1,0 +1,15 @@
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/bin/Debug/net6.0/Spotify-App
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/bin/Debug/net6.0/Spotify-App.deps.json
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/bin/Debug/net6.0/Spotify-App.runtimeconfig.json
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/bin/Debug/net6.0/Spotify-App.dll
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/bin/Debug/net6.0/Spotify-App.pdb
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.csproj.AssemblyReference.cache
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.AssemblyInfoInputs.cache
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.AssemblyInfo.cs
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.csproj.CoreCompileInputs.cache
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.dll
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/refint/Spotify-App.dll
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.pdb
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/Spotify-App.genruntimeconfig.cache
+/Users/otis/Documents/leerjaar 2/periode 3/Csharp/Spotify-App/obj/Debug/net6.0/ref/Spotify-App.dll
